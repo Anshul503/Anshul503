@@ -27,6 +27,8 @@
 <img align="right" src="https://cdn-bccfn.nitrocdn.com/dQvfjUMKmSakXspPACqmZNbJZBsJTrQs/assets/static/optimized/rev-ad35e05/oeeysgepuyd/wp-content/uploads/2018/11/26J2.png" />
 <!-- <img align="right" alt="GIF" src="https://media.giphy.com/media/ITRemFlr5tS39AzQUL/giphy.gif" /> -->
 
+
+
 - 🔭 I'm a Data Scientist and Machine Learning developer
 - 🌱 Did lot of Projects in different field of AI
 - ⚡ Done various certification courses from Udemy
