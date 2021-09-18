@@ -24,7 +24,7 @@
 
 ---
 
-<img align="right" src="https://cdn-bccfn.nitrocdn.com/dQvfjUMKmSakXspPACqmZNbJZBsJTrQs/assets/static/optimized/rev-ad35e05/oeeysgepuyd/wp-content/uploads/2018/11/26J2.png" />
+<!-- <img align="right" src="https://cdn-bccfn.nitrocdn.com/dQvfjUMKmSakXspPACqmZNbJZBsJTrQs/assets/static/optimized/rev-ad35e05/oeeysgepuyd/wp-content/uploads/2018/11/26J2.png" /> -->
 <!-- <img align="right" alt="GIF" src="https://media.giphy.com/media/ITRemFlr5tS39AzQUL/giphy.gif" /> -->
 
 
@@ -36,6 +36,8 @@
 - 🎉 Daily learning something new in the field of AI
 <!-- - ⚡ Fun fact: I am a Kaggle 3X Expert and highly active [there](https://www.kaggle.com/atharvaingle) -->
 
+
+<img align="right" src="https://cdn-bccfn.nitrocdn.com/dQvfjUMKmSakXspPACqmZNbJZBsJTrQs/assets/static/optimized/rev-ad35e05/oeeysgepuyd/wp-content/uploads/2018/11/26J2.png" />
 <!--
 ### I am currently working on:
 - ⚡**AUTO-TAB**⚡ - an end-to-end automated Machine Learning Library to tackle any Tabular Dataset
@@ -123,7 +125,7 @@
 <code><img height="30" src="https://cdn.iconscout.com/icon/free/png-512/notion-1693557-1442598.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>  -->
 
-<!-->
+<!--
 #### Operating System
 <code><img height="30" src="https://github.com/EgoistDeveloper/operating-system-logos/blob/master/src/48x48/UBT.png"></code>
 <code><img height="30" src="https://github.com/EgoistDeveloper/operating-system-logos/blob/master/src/48x48/WIN.png"></code>
