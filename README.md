@@ -54,6 +54,7 @@
 - [Deep Learning A-Z: Hands On Artificial Neural Networks](https://www.udemy.com/certificate/UC-bf2fae6d-3f94-4165-91ba-3532904c40f8/?utm_campaign=email&utm_source=sendgrid.com&utm_medium=email)
 - [Deep Reinforcement Learning 2.0)](https://www.udemy.com/certificate/UC-cab746ee-1f44-422a-bf9c-58db41d551f1/?utm_campaign=email&utm_source=sendgrid.com&utm_medium=email)
 - [Generative A.I.,from GANs to CLIP,with Python and Pytorch](https://www.udemy.com/certificate/UC-195d70db-ab7e-4157-a027-222b73622626/)
+- [Spatial Analysis and Geospatial Data Science in Python](https://www.udemy.com/certificate/UC-904e6bf7-2816-4cbc-b71f-744a2ee40b6d/)
 <!-- - [How to Edge Cache GraphQL APIs // Max Stoiber React Advanced London Interview](https://www.youtube.com/watch?v=zAXG-c_JrkQ) -->
 <!-- YOUTUBE:END -->
 
